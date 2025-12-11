@@ -53,16 +53,16 @@ This portfolio is powered by modern web technologies that reinforce best practic
 - Figma (UI/UX layouts)
 
 # 📂 Project Structure
-/assets
-   /css
-      style.css
-   /images
-      (All graphics, icons, logos)
-   /js
-      script.js
+- /assets
+   - /css
+      - style.css
+   - /images
+      - (All graphics, icons, logos)
+   - /js
+      - script.js
 
-index.html
-README.md
+- index.html
+- README.md
 
 # 🚀 Live Demo
 
