@@ -4,29 +4,29 @@ A modern, responsive, and interactive personal portfolio that showcases my journ
 
 # 🧩 Features
 
-- **Responsive & Fully Interactive UI**
-Adaptive layout built for mobile, tablet, and desktop.
+- **Responsive & Fully Interactive UI:**
+ Adaptive layout built for mobile, tablet, and desktop.
 
-- **Sidebar-Driven Navigation**
-Smooth transitions with a clean, app-like interface.
+- **Sidebar-Driven Navigation:**
+ Smooth transitions with a clean, app-like interface.
 
-- **Downloadable Resume**
-One-click access to my updated ATS-optimized resume.
+- **Downloadable Resume:**
+ One-click access to my updated ATS-optimized resume.
 
-- **Career Timeline**
-Structured journey including education, experience, and certifications.
+- **Career Timeline:**
+ Structured journey including education, experience, and certifications.
 
-- **Projects Section**
-Real-world projects with GitHub and live demo links.
+- **Projects Section:**
+ Real-world projects with GitHub and live demo links.
 
 - **Services Offered**
 Showcasing what I do in design, development, and programming.
 
-- **Contact Form + WhatsApp Chat**
-Fully working form using FormSubmit + direct WhatsApp message integration.
+- **Contact Form + WhatsApp Chat:**
+ Fully working form using FormSubmit + direct WhatsApp message integration.
 
-- **Tech Carousel**
-Engaging auto-scroll showcase of all technologies I work with.
+- **Tech Carousel:**
+ Engaging auto-scroll showcase of all technologies I work with.
 
 # 🛠️ Tech Stack
 
